@@ -64,7 +64,7 @@
     "commander": "^2.8.1",
     "errno": "^0.1.4",
     "express": "^4.13.3",
-    "liftoff": "^2.2.0",
+    "liftoff": "^2.4.0",
     "litecoind-rpc": "^0.7.1",
     "litecore-lib": "^0.13.22",
     "lru-cache": "^4.0.1",
